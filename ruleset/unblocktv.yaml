@@ -1,0 +1,14 @@
+payload:
+  # 内容：unblocktv
+  # USER-AGENT,Argo*
+  - 'DOMAIN,main.ubdata.info'
+  - 'DOMAIN,ht.vipub1818.com'
+  - 'DOMAIN,signal.gooogol.com'
+  - 'DOMAIN,tracker.newtvcdn.com'
+  - 'DOMAIN,ht.vipub1818.com'
+  - 'DOMAIN,tracker.newtvcdn.com'
+  - 'DOMAIN,www.wwwbirdtv.com'
+  - 'DOMAIN,tracker.newtvcdn.com'
+  - 'DOMAIN,media.fantv.hk'
+  - 'DOMAIN-KEYWORD,ccplay'
+  - 'DOMAIN-KEYWORD,zzplay'
