@@ -664,5 +664,3 @@ payload:
   - 'DOMAIN-KEYWORD,1drv'
   - 'DOMAIN-KEYWORD,onedrive'
   - 'DOMAIN-KEYWORD,skydrive'
-  - 'PROCESS-NAME,onedrive'
-  - 'PROCESS-NAME,onedriveupdater'
