@@ -10,5 +10,8 @@ payload:
   - 'DOMAIN,www.wwwbirdtv.com'
   - 'DOMAIN,tracker.newtvcdn.com'
   - 'DOMAIN,media.fantv.hk'
+  - 'DOMAIN,global.stun.twilio.com'
+  - 'DOMAIN,stun.l.google.com'
+  - 'DOMAIN,www.twtvcdn.com'
   - 'DOMAIN-KEYWORD,ccplay'
   - 'DOMAIN-KEYWORD,zzplay'
