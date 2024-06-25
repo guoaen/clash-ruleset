@@ -1,11 +1,13 @@
 payload:
   # 内容：chatgpt
   # USER-AGENT,Argo*
-  - 'DOMAIN-SUFFIX,bing'
   - 'DOMAIN-SUFFIX,bing.com'
-  - 'DOMAIN-SUFFIX,bing.com.cn'
   - 'DOMAIN-SUFFIX,openai.com'
   - 'DOMAIN-SUFFIX,sentry.io'
   - 'DOMAIN-SUFFIX,ai.com'
+  - 'DOMAIN-SUFFIX,chatgpt.com'
+  - 'DOMAIN-SUFFIX,openai.com'
+  - 'DOMAIN-SUFFIX,challengers.cloudflare.com'
+  - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net'
+  - 'DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net'
   - 'DOMAIN,cdn.auth0.com'
-  - 'DOMAIN,bard.google.com'
