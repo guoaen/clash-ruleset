@@ -1,12 +1,12 @@
-  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
-  - DOMAIN-SUFFIX,dl.steam.clngaa.com,DIRECT
-  - DOMAIN-SUFFIX,st.dl.bscstorage.net,DIRECT
-  - DOMAIN-SUFFIX,st.dl.eccdnx.com,DIRECT
-  - DOMAIN-SUFFIX,st.dl.pinyuncloud.com,DIRECT
-  - DOMAIN-SUFFIX,steampowered.com.8686c.com,DIRECT
-  - DOMAIN-SUFFIX,steamstatic.com.8686c.com,DIRECT
-  - DOMAIN-SUFFIX,client-update.queniuqe.com,DIRECT
-  - DOMAIN,lv.queniujq.cn,DIRECT
-  - DOMAIN,xz.pphimalayanrt.com,DIRECT
-  - DOMAIN-SUFFIX,wmsjsteam.com,DIRECT
-  - DOMAIN-SUFFIX,steamchina.com,DIRECT
++.steamcontent.com
++.dl.steam.clngaa.com
++.st.dl.bscstorage.net
++.st.dl.eccdnx.com
++.st.dl.pinyuncloud.com
++.steampowered.com.8686c.com
++.steamstatic.com.8686c.com
++.client-update.queniuqe.com
+lv.queniujq.cn
+xz.pphimalayanrt.com
++.wmsjsteam.com
++.steamchina.com
